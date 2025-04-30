@@ -59,7 +59,6 @@ http://localhost:8080
 
 ## 🧠 Consideraciones
 
-- **No es necesario conectarse a Internet**, ya que los datos están precargados en `proxy.db`.
 - Todos los endpoints utilizan consultas SQL optimizadas.
 - Los handlers están organizados modularmente por archivo para claridad y escalabilidad.
 
