@@ -19,7 +19,7 @@ F1_StatsHub/
 │   └── models.go
 ├── proxy.db
 ├── server.go
-├── main.go (opcional)
+├── main.go
 ├── go.mod / go.sum
 ```
 
